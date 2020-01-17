@@ -13,3 +13,7 @@ Die Pages werden mithilfe von "Markdown" entworfen. Markdown Seiten sind mit der
 
 Eine Referenz für Markdown gibt es [hier](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
+## Getting Started with GitHub Pages
+
+https://guides.github.com/features/pages/#setup
+
