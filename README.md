@@ -10,6 +10,10 @@
 
 * [http://it-pruefungsbuch.mezdata.de/pruefungen/index.html](http://it-pruefungsbuch.mezdata.de/pruefungen/index.html)
 
+### Tools
+
+* [Netzplantechnik etc. ](http://www.guenter-schwindt.de/organisation.htm)
+
 ## Anwendungsentwickler
 
 * [Github Plugin für Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
