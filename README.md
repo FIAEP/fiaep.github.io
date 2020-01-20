@@ -20,7 +20,7 @@
 
 ## Systemintegratoren
 
-### Apps für Netzwerkadmninistratoren
+### Android Apps für Netzwerkadmninistratoren
 
 * [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey&hl=de)
 * [Port Authority](https://f-droid.org/en/packages/com.aaronjwood.portauthority/)
