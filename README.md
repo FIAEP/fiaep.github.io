@@ -12,7 +12,12 @@
 
 ### Tools
 
-* [Netzplantechnik etc. ](http://www.guenter-schwindt.de/organisation.htm)
+#### Netzplan-Technik
+* [http://www.guenter-schwindt.de/organisation.htm](http://www.guenter-schwindt.de/organisation.htm) Excel Tool und mehr...
+* [https://sourceforge.net/projects/freeplane/](https://sourceforge.net/projects/freeplane/)
+* [https://github.com/gpapp/freeplaneWBS](https://github.com/gpapp/freeplaneWBS) (Netzplanplugin für Freeplane)
+* [https://github.com/stevoat8/NetzplanTool](https://github.com/stevoat8/NetzplanTool)
+
 
 ## Anwendungsentwickler
 
@@ -34,7 +39,6 @@
 ## Andere github Projekte mit Bezug zum Thema Fachinformatiker
 
 * [https://github.com/Gurkenschreck/FIAEP/wiki/Glossar](https://github.com/Gurkenschreck/FIAEP/wiki/Glossar)
-* [https://github.com/stevoat8/NetzplanTool](https://github.com/stevoat8/NetzplanTool)
 
 ## Nachrichten
 
