@@ -23,6 +23,10 @@
 
 * [Github Plugin für Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
 
+### Java Aufgaben
+
+* [http://tutego.de/javabuch/aufgaben/](http://tutego.de/javabuch/aufgaben/)
+
 ### AE Podcast
 
 * [https://fachinformatiker-anwendungsentwicklung.net/category/podcast/](https://fachinformatiker-anwendungsentwicklung.net/category/podcast/)
