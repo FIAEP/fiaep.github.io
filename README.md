@@ -47,8 +47,13 @@
 * [https://golem.de](https://golem.de)
 * [https://administrator.de](https://administrator.de)
 
-## sonstige Onlinekurse mit Zertifikaten
+## sonstige Onlinekurse (kostenlos) mit Zertifikaten (teilweise gegen Gebühr)
 
 ### Künstliche Intelligenz
 
-* [Elements of AI (Universität Helsinki)](https://course.elementsofai.com) auf deutsch, mit Teilnahmezertifikat bei 90% Bearbeitung der Übungen und 50% richtigen Lösungen.
+* [Elements of AI (Universität Helsinki)](https://course.elementsofai.com) | bei 90% Bearbeitung der Übungen und 50% richtigen Lösungen -> kostenloses Teilnahmezertifikat 
+
+### Objektorientierte Programmierung
+
+* [edX.org | OOP mit Java](https://www.edx.org/course/lernen-objekt-orientierter-programmierung) | Start 5.02.2020 | 6 Wochen | Zertifikat für 44€
+* [open.hpi.de | OOP mit Java](https://open.hpi.de/courses/javaeinstieg2020) | 4 März 2020 - 1 April 2020 | kostenloses Zeugnis
