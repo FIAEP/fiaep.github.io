@@ -46,3 +46,9 @@
 * [https://heise.de](https://heise.de)
 * [https://golem.de](https://golem.de)
 * [https://administrator.de](https://administrator.de)
+
+## sonstige Onlinekurse mit Zertifikaten
+
+### Künstliche Intelligenz
+
+* [Elements of AI (Universität Helsinki)](https://course.elementsofai.com) auf deutsch, mit Teilnahmezertifikat bei 90% Bearbeitung der Übungen und 50% richtigen Lösungen.
