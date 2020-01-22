@@ -60,8 +60,8 @@
 
 #### AI Beispiele
 
-* https://nanonets.com/blog/table-extraction-deep-learning/
-* https://github.com/emilwallner/Screenshot-to-code
+* [Tabellenerkennung und Extraktion](https://nanonets.com/blog/table-extraction-deep-learning/)
+* [Screenshot in Webseite umwandeln](https://github.com/emilwallner/Screenshot-to-code)
 
 ### Objektorientierte Programmierung
 
