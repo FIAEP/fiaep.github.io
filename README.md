@@ -56,7 +56,12 @@
 ### Künstliche Intelligenz
 
 * [Elements of AI (Universität Helsinki)](https://course.elementsofai.com) | bei 90% Bearbeitung der Übungen und 50% richtigen Lösungen -> kostenloses Teilnahmezertifikat 
-  * [Emil’s Story as a Self-Taught AI Researcher](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
+* [Emil’s Story as a Self-Taught AI Researcher](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
+
+#### AI Beispiele
+
+* https://nanonets.com/blog/table-extraction-deep-learning/
+* https://github.com/emilwallner/Screenshot-to-code
 
 ### Objektorientierte Programmierung
 
