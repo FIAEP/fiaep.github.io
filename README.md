@@ -60,5 +60,5 @@
 
 ### Objektorientierte Programmierung
 
-* [edX.org | OOP mit Java](https://www.edx.org/course/lernen-objekt-orientierter-programmierung) | Start 5.02.2020 | 6 Wochen | Zertifikat für 44€
-* [open.hpi.de | OOP mit Java](https://open.hpi.de/courses/javaeinstieg2020) | 4 März 2020 - 1 April 2020 | kostenloses Zeugnis
+* [edX.org - OOP mit Java](https://www.edx.org/course/lernen-objekt-orientierter-programmierung) | Start 5.02.2020 | 6 Wochen | Zertifikat für 44€
+* [open.hpi.de - OOP mit Java](https://open.hpi.de/courses/javaeinstieg2020) | 4 März 2020 - 1 April 2020 | kostenloses Zeugnis
