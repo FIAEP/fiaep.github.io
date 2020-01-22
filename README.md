@@ -56,6 +56,7 @@
 ### Künstliche Intelligenz
 
 * [Elements of AI (Universität Helsinki)](https://course.elementsofai.com) | bei 90% Bearbeitung der Übungen und 50% richtigen Lösungen -> kostenloses Teilnahmezertifikat 
+* [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
 * [Emil’s Story as a Self-Taught AI Researcher](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
 
 #### AI Beispiele
