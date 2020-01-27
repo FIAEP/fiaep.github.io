@@ -23,6 +23,11 @@
 
 * [Github Plugin für Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
 
+### Lernspiele
+
+* [Spielerisch Python & Javascript lernen](https://codecombat.com)
+* [Adventure Land](https://store.steampowered.com/app/777150/Adventure_Land__The_Code_MMORPG/)
+
 ### Java Aufgaben
 
 * [http://tutego.de/javabuch/aufgaben/](http://tutego.de/javabuch/aufgaben/)
@@ -51,7 +56,20 @@
 * [https://golem.de](https://golem.de)
 * [https://administrator.de](https://administrator.de)
 
+## Zusatzzertifizierungen
+
+# LPIC
+
+* [Onlinetest](http://www.penguintutor.com/quiz/)
+
 ## sonstige Onlinekurse (kostenlos) mit Zertifikaten (teilweise gegen Gebühr)
+
+### Objektorientierte Programmierung
+
+* [edX.org - OOP mit Java](https://www.edx.org/course/lernen-objekt-orientierter-programmierung) | Start 5.02.2020 | 6 Wochen | Zertifikat für 44€
+* [open.hpi.de - OOP mit Java](https://open.hpi.de/courses/javaeinstieg2020) | 4 März 2020 - 1 April 2020 | kostenloses Zeugnis
+
+## OFF-Topic
 
 ### Künstliche Intelligenz
 
@@ -64,7 +82,3 @@
 * [Tabellenerkennung und Extraktion](https://nanonets.com/blog/table-extraction-deep-learning/)
 * [Screenshot in Webseite umwandeln](https://github.com/emilwallner/Screenshot-to-code)
 
-### Objektorientierte Programmierung
-
-* [edX.org - OOP mit Java](https://www.edx.org/course/lernen-objekt-orientierter-programmierung) | Start 5.02.2020 | 6 Wochen | Zertifikat für 44€
-* [open.hpi.de - OOP mit Java](https://open.hpi.de/courses/javaeinstieg2020) | 4 März 2020 - 1 April 2020 | kostenloses Zeugnis
