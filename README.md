@@ -38,6 +38,14 @@
 
 ## Systemintegratoren
 
+### Tools für Administratoren
+
+* [Defprof](https://www.forensit.com/support-downloads.html) Standardprofil ohne sysprep anpassen.
+* [Advanced IP Scanner](https://www.advanced-ip-scanner.com/de/) kostenloser Netzwerk-Scanner zur Analyse lokaler Netzwerke
+* [Rufus](https://rufus.ie/) Erstellen Sie bootfähige USB-Laufwerke auf einfache Art und Weise
+* [Win32 DiskImager](https://www.heise.de/download/product/win32-disk-imager-92033) schreibt Disk-Images auf ein mobiles Laufwerk wie USB-Stick und SD-Karte oder kann alternativ von diesen Images erstellen
+* [Clonezilla Server Edition](https://drbl.org/download/)  Für größere Netzwerk, in denen man auf sehr viele Clients ein Abbild übertragen möchte, bietet sich die Clonezilla Server Edition (SE) an.
+
 ### Android Apps für Netzwerkadmninistratoren
 
 * [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey&hl=de)
