@@ -2,7 +2,9 @@
 
 ## Projekt Lernkarteien
 
-* [https://fiaep.github.io/Lernkarteien](https://fiaep.github.io/Lernkarteien)
+* [https://fiaep.github.io/Lernkarteien](https://fiaep.github.io/Lernkarteien/)
+* [https://fiaep.github.io/quick-quiz (Multiple Choice Tests)](https://fiaep.github.io/quick-quiz/)
+
 
 ## Allgemein
 
