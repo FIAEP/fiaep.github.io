@@ -1,0 +1,21 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Informationen
+  url: /informationen/
+
+- title: Übungsaufgaben
+  url: /uebungsaufgaben/
+
+- title: Tools
+  url: /blog/
+
+- title: Programmierung
+  url: /pogrammierung/
+  
+- title: Netzwerkadministration
+  url: /netzwerktadministration/
+  
+- title: Links
+  url: /links/
