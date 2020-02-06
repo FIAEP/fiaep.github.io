@@ -68,7 +68,7 @@
 
 ## Zusatzzertifizierungen
 
-# LPIC
+## LPIC
 
 * [Onlinetest](http://www.penguintutor.com/quiz/)
 
