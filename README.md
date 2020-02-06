@@ -25,10 +25,11 @@
 
 * [Github Plugin für Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
 
-### Lernspiele
+### Programmier-Online-Lernspiele
 
-* [Spielerisch Python & Javascript lernen](https://codecombat.com)
-* [Adventure Land](https://store.steampowered.com/app/777150/Adventure_Land__The_Code_MMORPG/)
+* [codecombat.com Spielerisch Python & Javascript lernen](https://codecombat.com)
+* [Adventure Land (kostenpflichtig auf Steam)](https://store.steampowered.com/app/777150/Adventure_Land__The_Code_MMORPG/)
+* [JSRobot - Javascript lernen](https://lab.reaal.me/jsrobot/)
 
 ### Java Aufgaben
 
