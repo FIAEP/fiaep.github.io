@@ -56,6 +56,12 @@
 * [Network Discovery](https://f-droid.org/en/packages/info.lamatricexiste.network/)
 * [csploit](https://f-droid.org/en/packages/org.csploit.android/)
 
+### WSL (Windows Subsystem for Linux)
+
+* [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+* [https://github.com/mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop)
+* [https://devblogs.microsoft.com/commandline/integrate-linux-commands-into-windows-with-powershell-and-the-windows-subsystem-for-linux/](https://devblogs.microsoft.com/commandline/integrate-linux-commands-into-windows-with-powershell-and-the-windows-subsystem-for-linux/)
+
 ## Andere github Projekte mit Bezug zum Thema Fachinformatiker
 
 * [https://github.com/Gurkenschreck/FIAEP/wiki/Glossar](https://github.com/Gurkenschreck/FIAEP/wiki/Glossar)
