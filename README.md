@@ -13,6 +13,7 @@
 ## Elektro-Digital-Netzwerktechnik
 * [Umrechnung von Zahlensystemen https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm](https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm)
 * [Arbeiten mit verschiedenen Zahlensystemen https://www.purebasic.com/german/documentation/reference/binary.html](https://www.purebasic.com/german/documentation/reference/binary.html)
+* [https://sheabunge.github.io/boolcalc/ - Boolscher Algebra Rechner](https://sheabunge.github.io/boolcalc/)
 
 ## BWL
 
