@@ -62,7 +62,7 @@
 * [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 * [https://github.com/mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop)
 * [https://devblogs.microsoft.com/commandline/integrate-linux-commands-into-windows-with-powershell-and-the-windows-subsystem-for-linux/](https://devblogs.microsoft.com/commandline/integrate-linux-commands-into-windows-with-powershell-and-the-windows-subsystem-for-linux/)
-* [https://github.com/sirredbeard/Awesome-WSL - Awesome WSL link list](https://github.com/sirredbeard/Awesome-WSL]
+* [https://github.com/sirredbeard/Awesome-WSL - Awesome WSL link list](https://github.com/sirredbeard/Awesome-WSL)
 
 ## Andere github Projekte mit Bezug zum Thema Fachinformatiker
 
