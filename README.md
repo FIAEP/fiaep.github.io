@@ -10,6 +10,10 @@
 
 * [http://it-pruefungsbuch.mezdata.de/pruefungen/index.html](http://it-pruefungsbuch.mezdata.de/pruefungen/index.html)
 
+## Abschlussprojekt
+
+* [https://fachinformatiker-anwendungsentwicklung.net/beispiele-fuer-abschlussprojekte/ - Liste von AE/SI Abschlussprojekten](https://fachinformatiker-anwendungsentwicklung.net/beispiele-fuer-abschlussprojekte/)
+
 ## Elektro-Digital-Netzwerktechnik
 * [Umrechnung von Zahlensystemen https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm](https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm)
 * [Arbeiten mit verschiedenen Zahlensystemen https://www.purebasic.com/german/documentation/reference/binary.html](https://www.purebasic.com/german/documentation/reference/binary.html)
