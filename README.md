@@ -6,18 +6,23 @@
 * [https://fiaep.github.io/quick-quiz (Multiple Choice Tests)](https://fiaep.github.io/quick-quiz/)
 
 
-## Allgemein
-
-### Prüfungen Baden-Württemberg
+## Prüfungen Baden-Württemberg
 
 * [http://it-pruefungsbuch.mezdata.de/pruefungen/index.html](http://it-pruefungsbuch.mezdata.de/pruefungen/index.html)
 
-### Tools
+## Abschlussprojekt
 
-#### Netzplan-Technik
+* [https://fachinformatiker-anwendungsentwicklung.net/beispiele-fuer-abschlussprojekte/ - Liste von AE/SI Abschlussprojekten](https://fachinformatiker-anwendungsentwicklung.net/beispiele-fuer-abschlussprojekte/)
+
+## Elektro-Digital-Netzwerktechnik
+* [Umrechnung von Zahlensystemen https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm](https://www.arndt-bruenner.de/mathe/scripts/Zahlensysteme.htm)
+* [Arbeiten mit verschiedenen Zahlensystemen https://www.purebasic.com/german/documentation/reference/binary.html](https://www.purebasic.com/german/documentation/reference/binary.html)
+* [https://sheabunge.github.io/boolcalc/ - Boolscher Algebra Rechner](https://sheabunge.github.io/boolcalc/)
+
+## BWL
+
+##### Netzplan-Technik
 * [http://www.guenter-schwindt.de/organisation.htm](http://www.guenter-schwindt.de/organisation.htm) Excel Tool und mehr...
-* [https://sourceforge.net/projects/freeplane/](https://sourceforge.net/projects/freeplane/)
-* [https://github.com/gpapp/freeplaneWBS](https://github.com/gpapp/freeplaneWBS) (Netzplanplugin für Freeplane)
 * [https://github.com/stevoat8/NetzplanTool](https://github.com/stevoat8/NetzplanTool)
 
 
@@ -25,10 +30,11 @@
 
 * [Github Plugin für Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
 
-### Lernspiele
+### Programmier-Online-Lernspiele
 
-* [Spielerisch Python & Javascript lernen](https://codecombat.com)
-* [Adventure Land](https://store.steampowered.com/app/777150/Adventure_Land__The_Code_MMORPG/)
+* [codecombat.com Spielerisch Python & Javascript lernen](https://codecombat.com)
+* [Adventure Land (kostenpflichtig auf Steam)](https://store.steampowered.com/app/777150/Adventure_Land__The_Code_MMORPG/)
+* [JSRobot - Javascript lernen](https://lab.reaal.me/jsrobot/)
 
 ### Java Aufgaben
 
@@ -47,6 +53,7 @@
 * [Rufus](https://rufus.ie/) Erstellen Sie bootfähige USB-Laufwerke auf einfache Art und Weise
 * [Win32 DiskImager](https://www.heise.de/download/product/win32-disk-imager-92033) schreibt Disk-Images auf ein mobiles Laufwerk wie USB-Stick und SD-Karte oder kann alternativ von diesen Images erstellen
 * [Clonezilla Server Edition](https://drbl.org/download/)  Für größere Netzwerk, in denen man auf sehr viele Clients ein Abbild übertragen möchte, bietet sich die Clonezilla Server Edition (SE) an.
+* [https://www.sandboxie.com/ Sandbox](https://www.sandboxie.com/)
 
 ### Android Apps für Netzwerkadmninistratoren
 
@@ -54,6 +61,13 @@
 * [Port Authority](https://f-droid.org/en/packages/com.aaronjwood.portauthority/)
 * [Network Discovery](https://f-droid.org/en/packages/info.lamatricexiste.network/)
 * [csploit](https://f-droid.org/en/packages/org.csploit.android/)
+
+### WSL (Windows Subsystem for Linux)
+
+* [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+* [https://github.com/mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop)
+* [https://devblogs.microsoft.com/commandline/integrate-linux-commands-into-windows-with-powershell-and-the-windows-subsystem-for-linux/](https://devblogs.microsoft.com/commandline/integrate-linux-commands-into-windows-with-powershell-and-the-windows-subsystem-for-linux/)
+* [https://github.com/sirredbeard/Awesome-WSL - Awesome WSL link list](https://github.com/sirredbeard/Awesome-WSL)
 
 ## Andere github Projekte mit Bezug zum Thema Fachinformatiker
 
@@ -68,7 +82,7 @@
 
 ## Zusatzzertifizierungen
 
-# LPIC
+## LPIC
 
 * [Onlinetest](http://www.penguintutor.com/quiz/)
 
